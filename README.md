@@ -1,3 +1,3 @@
-code -> Programme.Sample.scala
+code -> SampleProgram.scala
 NOM : DUSART
 PRENOM : ARMAND
